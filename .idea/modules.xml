@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ScreenAutomation.iml" filepath="$PROJECT_DIR$/ScreenAutomation.iml" />
+      <module fileurl="file://D:\Android_studio\GitHubProject\ScreenAutomation\ScreenAutomation.iml" filepath="D:\Android_studio\GitHubProject\ScreenAutomation\ScreenAutomation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Android_studio\GitHubProject\ScreenAutomation\app\app.iml" filepath="D:\Android_studio\GitHubProject\ScreenAutomation\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/screenautomationlib/screenautomationlib.iml" filepath="$PROJECT_DIR$/screenautomationlib/screenautomationlib.iml" />
+      <module fileurl="file://D:\Android_studio\GitHubProject\ScreenAutomation\screenautomationlib\screenautomationlib.iml" filepath="D:\Android_studio\GitHubProject\ScreenAutomation\screenautomationlib\screenautomationlib.iml" />
     </modules>
   </component>
 </project>
